@@ -21,6 +21,9 @@ int main() {
 	// 	cout << "HELLO" << endl;
 	// }
 
+
+	// cout << ((-0) == (+0)) << endl;
+	// This means C++ does
 	cout << ((-0) || (+0)) << endl;
 
 	int a = 1;
