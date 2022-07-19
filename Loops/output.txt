@@ -1,0 +1,4 @@
+Even terms : 5
+Even sum : 20
+Odd terms : 4
+Odd sum : 16
