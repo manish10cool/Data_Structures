@@ -1,1 +1,1 @@
-Not an Armstrong Number
+3
